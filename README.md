@@ -97,6 +97,8 @@ We welcome contributions! If you'd like to contribute:
 ## 👤 Author
 **Rohan Patil**  
 GitHub: [@RohanPatil2](https://github.com/RohanPatil2)
+**Shreyas Khandale**
+Github: [@sherurox](https://github.com/sherurox).
 
 ## ✨ License
 This project is **open-source** under the MIT License.
