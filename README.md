@@ -95,10 +95,10 @@ We welcome contributions! If you'd like to contribute:
 4. Create a pull request.
 
 ## 👤 Author
-**Rohan Patil**  
-GitHub: [@RohanPatil2](https://github.com/RohanPatil2)
-**Shreyas Khandale**
-Github: [@sherurox](https://github.com/sherurox).
+**Rohan Patil** <br> 
+GitHub: [@RohanPatil2](https://github.com/RohanPatil2)<br>
+**Shreyas Khandale**<br>
+Github: [@sherurox](https://github.com/sherurox).<br>
 
 ## ✨ License
 This project is **open-source** under the MIT License.
